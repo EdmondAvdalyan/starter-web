@@ -9,3 +9,5 @@ Sample websit;;;e with plenty of files for demos
 ##also sample
 
 ###COPYRIGHT
+how contribute
+
