@@ -6,4 +6,6 @@ This repository is for showing how Git and GitHub work
 ## implemenknkdt
 Sample websit;;;e with plenty of files for demos
 ## Samples
-##also samples
+##also sample
+
+###COPYRIGHT
