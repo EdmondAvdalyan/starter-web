@@ -3,5 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Purposes
-## implemendt
-Sample website with plenty of files for demos
+## implemenknkdt
+Sample websit;;;e with plenty of files for demos
+## Samples
+##also samples
